@@ -8,7 +8,7 @@
 3. 执行以下命令：
 
 ``` bash
-git clone https://github.com/yizhiamumu/anires.git
+git clone https://github.com/yizhiamumu/anires01.git
 cd anires
 npm install
 npm run dev
